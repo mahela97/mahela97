@@ -13,7 +13,7 @@
 <h1 style="text-align:center; font-weight:bold;">## 📖 About Me<h1/>
 
 
-<h3 style="text-align:center; font-weight:bold;">Hi, I am Mahela Pradeep<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <h3/><h3 style="text-align:center; font-weight:bold;">I am an undergraduate student at <a href="https://uom.lk/" style="font-weight:bold;">University of Moratuwa<a/>, Department of Computer Science and Engineering.  <h3/><h3>I love to learn new technologies by myself, try them out and give my contribution back to the software community.<h3/>
+<h3 style="align:center; font-weight:bold;">Hi, I am Mahela Pradeep<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <h3/><h3 style="align:center; font-weight:bold;">I am an undergraduate student at <a href="https://uom.lk/" style="font-weight:bold;">University of Moratuwa<a/>, Department of Computer Science and Engineering.  <h3/><h3>I love to learn new technologies by myself, try them out and give my contribution back to the software community.<h3/>
 
 ## 🔥 My contributions
 
@@ -24,18 +24,16 @@
 </p>
 
 
-## 📊 Github stats
+
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<details> 
+
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mahela97&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mahela97&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+    <img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mahela97&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+ <img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mahela97&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
-<h3 align="center">⬇ Scroll down to see <a href="https://github.com/DenverCoder1?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
+  
 
 
 ## 🙋‍♂️ Connect with me:
