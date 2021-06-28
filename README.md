@@ -10,12 +10,12 @@
 
 
 
-<h1 style="text-align:center; font-weight:bold;">## 📖 About Me<h1/>
+<h1 align:"center"> 📖 About Me<h1/>
 
 
 <h3 align:"center">Hi, I am Mahela Pradeep<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <h3/><h3 align:"center">I am an undergraduate student at <a href="https://uom.lk/" style="font-weight:bold;">University of Moratuwa<a/>, Department of Computer Science and Engineering.  <h3/><h3>I love to learn new technologies by myself, try them out and give my contribution back to the software community.<h3/>
 
-## 🔥 My contributions
+🔥 My contributions
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
