@@ -13,7 +13,7 @@
 <h1 style="text-align:center; font-weight:bold;">## 📖 About Me<h1/>
 
 
-<h3 style="align:center; font-weight:bold;">Hi, I am Mahela Pradeep<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <h3/><h3 style="align:center; font-weight:bold;">I am an undergraduate student at <a href="https://uom.lk/" style="font-weight:bold;">University of Moratuwa<a/>, Department of Computer Science and Engineering.  <h3/><h3>I love to learn new technologies by myself, try them out and give my contribution back to the software community.<h3/>
+<h3 align:"center">Hi, I am Mahela Pradeep<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <h3/><h3 align:"center">I am an undergraduate student at <a href="https://uom.lk/" style="font-weight:bold;">University of Moratuwa<a/>, Department of Computer Science and Engineering.  <h3/><h3>I love to learn new technologies by myself, try them out and give my contribution back to the software community.<h3/>
 
 ## 🔥 My contributions
 
@@ -31,11 +31,10 @@
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
     <img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mahela97&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
- <img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mahela97&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <br/>
   
 
-
+ 
+ 
 ## 🙋‍♂️ Connect with me:
 
 <p align = "center">
